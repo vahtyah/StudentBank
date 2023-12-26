@@ -4,18 +4,18 @@
 <div class="follow_us">
     <label>Follow Us</label>
     <ul>
-        <li><a href="https://www.facebook.com/">Facebook</a></li>
-        <li><a href="https://twitter.com/">Twitter</a></li>
-        <li><a href="https://www.instagram.com/">Instagram</a></li>
+    <li><a href="https://vk.com/mirea_official">VKontakte MIREA</a></li>
+        <li><a href="https://www.mirea.ru/">WEBSITE MIREA</a></li>
+        <li><a href="https://vk.com/maivantuan">VKontakte of me</a></li>
     
     </ul>
     </div>
     <div class="contact" id="contactus">
         <label>Contact Us</label>
         <ul>
-            <p>1149 Bolman Court,</p><p>Baylis, Illinois 69690</p>
-            <p>Tel : 217-336-0173</p>
-            <p> Email: contact@obsphp</p>
+        <p>Russia, Moscow</p><p>г Москва, пр-кт Вернадского, д. 86, стр. 1</p>
+            <p>Tel : +7 999 865 70 10</p>
+            <p> Email: 8268826@gmail.com</p>
             
         </ul>
     </div>
@@ -40,11 +40,8 @@
     
     </div>
     <div class="copyright">
-        <span>Copyright &copy; 2018-21 Online Banking System. All rights reserved.</span>
+        <span>Copyright &copy; 2023 Student Bank. All rights reserved.</span>
     </div>
-    
-    <div class="bestview">
-    <span>Site best viewed at 1024 x 768 resolution in Internet Explorer 10+, Google Chrome 49+, Firefox 45+ and Safari 6+</span>
     
     </div>
 
